@@ -16,8 +16,7 @@ timezone: Asia/Seoul
 
 title: RyuRain's Blog # the main title
 
-tagline: The only people who have anything to fear from free software are those whose products are worth even less. <br>
-    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp - David F. Emery - # it will display as the sub-title
+tagline: 생각대로 살지 않으면 사는 대로 생각하게 된다. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
