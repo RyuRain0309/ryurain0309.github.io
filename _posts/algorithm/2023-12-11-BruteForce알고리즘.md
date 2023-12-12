@@ -1,8 +1,8 @@
 ---
 title: BruteForce 완전 탐색
 author: RyuRain
-date: 2023-12-02 12:40:00 +0900
-categories: [Algorithm, BruteForce]
+date: 2023-12-11 12:40:00 +0900
+categories: [Algorithm, Concept]
 tags: [algorithm,bruteforce]
 math: true
 mermaid: true
